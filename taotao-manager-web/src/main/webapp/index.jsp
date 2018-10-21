@@ -11,6 +11,6 @@
     <title>taotao</title>
 </head>
 <body>
-<h1>淘淘商城欢迎您！O(∩_∩)O哈哈~</h1>
+<h1>淘淘商城欢迎您！O(∩_∩)O哈哈~ </h1>
 </body>
 </html>
